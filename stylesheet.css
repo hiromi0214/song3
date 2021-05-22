@@ -1,0 +1,205 @@
+
+
+*{box-sizing: border-box;}
+
+li {list-style: none;}
+
+
+header a  {
+	font-size: 15px;
+	display: inline-block;
+	float: left;
+	margin: 15px 5px 0 10px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+
+
+	color: white;
+}
+
+header a:hover {
+	background-color: rgba(255,255,255,0.5);
+	cursor: pointer;
+}
+
+header p {
+	color: white;
+		font-size: 20px;
+	display: inline-block;
+	float: left;
+	margin: 15px 5px 0 10px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	
+}
+
+header {
+	display: inline-block;
+	height: 50px;
+	width: 100%;
+	background-color: rgba(10,10,10,8);
+	font-size:20px;
+	position:fixed;
+	top:0px;
+	left:0px;
+	z-index:10;
+	border-radius: 10px;
+	box-shadow: 5px 5px #000;
+	
+}
+
+.top {
+	display:block;
+	height: 500px;
+	width: 100%;
+	margin: 0 auto;
+	background-image: url(https://pics.prcm.jp/e4d161d767efe/77272970/png/77272970.png);
+	background-size:cover;
+		margin-bottom:140px;
+}
+
+.top p {
+	text-align: center;
+	display:block;
+	padding-top:500px;
+	font-size:50px;
+	margin: 0 auto;
+
+}
+
+.music {
+	width: 100%;
+	margin: 0 auto;
+	height: 220px;
+}
+
+.music:hover {
+	cursor: pointer;
+}
+
+.hik {
+	width: 100%;
+	height: 100%;
+	float:left;
+	background-image: url(https://github.com/hiromi0214/test/blob/main/1-2.jpg?raw=true);
+	background-size: cover;
+}
+
+.ari {
+	width: 100%;
+	height: 100%;
+	float:left;
+	background-image: url(https://github.com/hiromi0214/test/blob/main/2.jpg?raw=true);
+	background-size: cover;
+}
+
+.pla {
+	width: 100%;
+	height: 100%;
+	float:left;
+	background-image: url(https://github.com/hiromi0214/test/blob/main/3.jpg?raw=true);
+	background-size: cover;
+}
+
+.glo {
+	width: 100%;
+	height: 100%;
+	float:left;
+	background-image: url(https://github.com/hiromi0214/test/blob/main/4.jpg?raw=true);
+	background-size: cover;
+}
+
+.glo-2 {
+	width: 100%;
+	height: 100%;
+		float:left;
+		background-image: url(https://github.com/hiromi0214/test/blob/main/5.jpg?raw=true);
+		background-size: cover;
+}
+
+.mul {
+	width: 100%;
+	height: 100%;
+		float:left;
+		background-image: url(https://github.com/hiromi0214/test/blob/main/6.jpg?raw=true);
+		background-size: cover;
+}
+
+.mul-2 {
+	width: 100%;
+	height: 100%;
+		float:left;
+		background-image: url(https://github.com/hiromi0214/test/blob/main/7.jpg?raw=true);
+		background-size: cover;
+}
+
+.ano {
+	width: 100%;
+	height: 100%;
+		float:left;
+		background-image: url(https://github.com/hiromi0214/test/blob/main/8.jpg?raw=true);
+		background-size: cover;
+}
+
+.ano-2 {
+	width: 100%;
+	height: 100%;
+		float:left;
+		background-image: url(https://github.com/hiromi0214/test/blob/main/9.jpg?raw=true);
+		background-size: cover;
+}
+
+.har {
+	width: 100%;
+	height: 100%;
+		float:left;
+		background-image: url(https://github.com/hiromi0214/test/blob/main/10.jpg?raw=true);
+		background-size: cover;
+}
+
+.rig {
+	width: 100%;
+	height: 100%;
+		float:left;
+		background-image: url(https://github.com/hiromi0214/test/blob/main/11.jpg?raw=true);
+		background-size: cover;
+}
+
+.xxx {
+	width: 100%;
+	height: 100%;
+		float:left;
+		background-color: white;
+	
+}
+
+footer p{
+	display:block;
+	height: 500px;
+	line-height: 100px;
+	width: 100%;
+	margin: 0 auto;
+	text-align:center;
+	padding: 50px 0px;
+}
+.space {
+	height: 30px;
+}
+
+ul {
+	text-align:center;
+	color: black;
+	font-weight: bold;
+}
+
+.profile_style {
+	text-align:center;
+	color: black;
+	font-weight: bold;
+}
+
+.list {
+	float: left;
+}

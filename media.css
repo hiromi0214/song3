@@ -1,0 +1,33 @@
+@media(min-width: 670px){
+	
+.top {
+	display:block;
+	height: 500px;
+	width: 70%;
+	margin: 0 auto;
+	background-image: url(https://pics.prcm.jp/e4d161d767efe/77272970/png/77272970.png);
+	background-size:cover;
+	margin-bottom:140px;
+}
+
+	.mus {
+		width: 25%;
+		background-size:cover;
+	}
+.top {
+	display:block;
+	height: 1000px;
+	width: 80%;
+	margin: 0 auto;
+	background-image: url(https://pics.prcm.jp/e4d161d767efe/77272970/png/77272970.png);
+	background-size:cover;
+		margin-bottom:140px;
+}
+
+.top p {
+	display: none;
+}
+
+
+
+}
